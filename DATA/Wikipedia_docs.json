@@ -1,0 +1,10 @@
+[
+    {
+        "content": "Paris is the capital of France.",
+        "meta": {"source": "Wikipedia", "topic": "Geography"}
+    },
+    {
+        "content": "Berlin is the capital of Germany.",
+        "meta": {"source": "Wikipedia", "topic": "Geography"}
+    }
+]
